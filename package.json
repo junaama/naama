@@ -8,9 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/junaama/portfolio"
+    "url": "git+https://github.com/junaama/naama"
   },
   "keywords": [],
+  "homepage": "https://github/com/junaama/naama"
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
